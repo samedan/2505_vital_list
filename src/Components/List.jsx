@@ -1,6 +1,7 @@
 import { React, useState } from "react";
 // import data from "./ListData.json";
-import data from "../search_utf_test.json";
+// import data from "../search_utf_test.json";
+import data from "../search_utf.json";
 
 function List(props) {
   const filteredData = data.filter((el) => {
