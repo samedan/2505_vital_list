@@ -1,8 +1,7 @@
 import { React, useState } from "react";
 // import data from "./ListData.json";
 // import data from "../search_utf_test.json";
-// import data from "../search_competences_utf_local_with_submenu_onedrive.json";
-import data from "../sd.json";
+import data from "../search_competences_utf_local_with_submenu_onedrive.json";
 // import data from process.env.PUBLIC_URL + '/search_competences_utf_local_with_submenu_onedrive.json';
 
 function List(props) {
