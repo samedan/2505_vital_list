@@ -4,6 +4,7 @@
     "url": "./SD/7-Zip%20-%20Chiffrage%20des%20fichiers%20(Excel,%20Word%E2%80%A6)%20avec%207-Zip.pdf",
     "text": "7-Zip - Chiffrage des fichiers (Excel, Word…) avec 7-Zip.pdf",
     "menu": "",
+    "categories": [1, 2],
     "del": "</td><td  761044743 kB</td><td  174711492013/05/2025 07:42:00"
   },
   {
@@ -11,6 +12,7 @@
     "url": "./SD/ACTIMIZE%20-%20Incidents.pdf",
     "text": "ACTIMIZE - Incidents.pdf",
     "menu": "",
+    "categories": [4, 7],
     "del": "</td><td  376882368 kB</td><td  174711492013/05/2025 07:42:00"
   },
   {
