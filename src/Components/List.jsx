@@ -2,11 +2,11 @@ import { React, useState } from "react";
 // import data from "./ListData.json";
 // import data from "../search_utf_test.json";
 // import data from "../search_competences_utf_local_with_submenu_onedrive.json";
-import data from "../sd.json";
+import data from "../sd_source.json";
 // import data from process.env.PUBLIC_URL + '/search_competences_utf_local_with_submenu_onedrive.json';
 
 function List(props) {
-  const [searchTerm, setSearchTerm] = useState("");
+  // const [searchTerm, setSearchTerm] = useState("");
   // const [data, setData] = React.useState([]);
   // setData([...data, item]);
 
@@ -23,7 +23,7 @@ function List(props) {
     //return the item which contains the user input
     else {
       // console.log("props.input");
-      // console.log(props.input);
+      console.log(props.input);
       // setSearchTerm(props.input);
 
       return el.text.toLowerCase().includes(props.input);
@@ -37,7 +37,7 @@ function List(props) {
         <li key={item.id}>{item.text}</li>
       ))} */}
       {filteredData.map((item) => (
-        <li key={item.id}>
+        <li key={item.del}>
           <a
             href={item.url}
             without
