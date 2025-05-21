@@ -1,83 +1,82 @@
 [
-    {
-        "id": 1, 
-        "name": "Active Directory"
-    }, 
-    {
-        "id": 2, 
-        "name": "Applications bureautique"
-    }, 
-    {
-        "id": 3, 
-        "name": "Application métier"
-    }, 
-    {
-        "id": 4, 
-        "name": "Contact"
-    }, 
-    {
-        "id": 5, 
-        "name": "Création-Modification-Suppresion"
-    }, 
-    {
-        "id": 6, 
-        "name": "Demande"
-    }, 
-    {
-        "id": 7, 
-        "name": "DSC"
-    }, 
-    {
-        "id": 8, 
-        "name": "Entité"
-    }, 
-    {
-        "id": 9, 
-        "name": "Epargne Actuelle"
-    }, 
-    {
-        "id": 10, 
-        "name": "Eurofil"
-    }, 
-    {
-        "id": 11, 
-        "name": "GIE AFER"
-    }, 
-    {
-        "id": 12, 
-        "name": "Habilitation"
-    }, 
-    {
-        "id": 13, 
-        "name": "Incidents"
-    }, 
-    {
-        "id": 14, 
-        "name": "Messagerie"
-    }, 
-    {
-        "id": 15, 
-        "name": "Migration d'application"
-    }, 
-    {
-        "id": 16, 
-        "name": "Outils tech"
-    }, 
-    {
-        "id": 17, 
-        "name": "Périphérique externe"
-    }, 
-    {
-        "id": 18, 
-        "name": "Réunion-visioconférence"
-    }, 
-    {
-        "id": 19, 
-        "name": "Téléphonie-tablette-smartphone"
-    }, 
-    {
-        "id": 20, 
-        "name": "VPN"
-    }
-
+  {
+    "id": 1,
+    "name": "Active Directory"
+  },
+  {
+    "id": 2,
+    "name": "Applications bureautique"
+  },
+  {
+    "id": 3,
+    "name": "Application métier"
+  },
+  {
+    "id": 4,
+    "name": "Contact"
+  },
+  {
+    "id": 5,
+    "name": "Création-Modification-Suppresion"
+  },
+  {
+    "id": 6,
+    "name": "Demande"
+  },
+  {
+    "id": 7,
+    "name": "DSC"
+  },
+  {
+    "id": 8,
+    "name": "Entité"
+  },
+  {
+    "id": 9,
+    "name": "Epargne Actuelle"
+  },
+  {
+    "id": 10,
+    "name": "Eurofil"
+  },
+  {
+    "id": 11,
+    "name": "GIE AFER"
+  },
+  {
+    "id": 12,
+    "name": "Habilitation"
+  },
+  {
+    "id": 13,
+    "name": "Incidents"
+  },
+  {
+    "id": 14,
+    "name": "Messagerie"
+  },
+  {
+    "id": 15,
+    "name": "Migration d'application"
+  },
+  {
+    "id": 16,
+    "name": "Outils tech"
+  },
+  {
+    "id": 17,
+    "name": "Périphérique externe"
+  },
+  {
+    "id": 18,
+    "name": "Réunion-visioconférence"
+  },
+  {
+    "id": 19,
+    "name": "Téléphonie-tablette-smartphone"
+  },
+  {
+    "id": 20,
+    "name": "VPN"
+  }
 ]
