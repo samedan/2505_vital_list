@@ -55,6 +55,7 @@ function List(props) {
       // console.log(typeof filteredItems[0].name);
     });
     console.log(displayedItems);
+    
 
     displayedItems.map((item, i) => <p>{item.name.toString()}</p>);
     // return <p>{displayedItems[0].name}</p>;
